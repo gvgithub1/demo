@@ -2,4 +2,4 @@
 
 This is simple readme file changed and commited
 check to see the diff cmd
-created a new branch updates
+This is bound to cause trouble from very-bad branch
