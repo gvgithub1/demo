@@ -2,4 +2,4 @@
 
 This is simple readme file changed and commited
 check to see the diff cmd
-created a new branch updates
+changing the data for conflict before merging the very-bad branch changes
